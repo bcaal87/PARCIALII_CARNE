@@ -7,7 +7,7 @@ Este es un sitio web estático que contiene información sobre mi biografía y r
 - HTML5: Se utiliza para estructurar el contenido y los elementos del sitio web.
 - CSS3: Se utiliza para aplicar estilos y mejorar la apariencia visual del sitio.
 - Bootstrap 4: Se utiliza como framework CSS para facilitar el diseño responsivo y mejorar la estética.
-- JavaScript (Opcional): Puede incorporarse para agregar interactividad y funcionalidad adicional (no se utiliza en esta versión básica).
+- JavaScript (Opcional): Puede incorporarse para agregar interactividad y funcionalidad adicional (no se utiliza en esta versión básica)...
 
 ## Estructura de Carpetas
 
